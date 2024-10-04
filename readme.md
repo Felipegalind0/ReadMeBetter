@@ -23,7 +23,12 @@ TODO: Add markdown cheat sheets
 
 Mermaid is a simple markdown-like script language for generating charts from text via javascript. It is a great way to add flowcharts, sequence diagrams, gantt charts, and more to your ReadMe file.
 
+**⚠️** *[VS Code extension](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) needed to render mermaid graphs*
+
 Here is an example chart showing role of a readme file in a project:
+
+
+
 
 ```mermaid
 graph TD
