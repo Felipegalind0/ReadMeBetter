@@ -19,7 +19,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
 
 TODO: Add markdown cheat sheets
 
-### mermaid graphs
+### Mermaid graphs
 
 Mermaid is a simple markdown-like script language for generating charts from text via javascript. It is a great way to add flowcharts, sequence diagrams, gantt charts, and more to your ReadMe file.
 
