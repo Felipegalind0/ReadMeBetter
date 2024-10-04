@@ -1,5 +1,5 @@
 
-# ReadMe Better:
+# ReadMeBetter:
 
 Tips for writing a better ReadMe file for your project.
 
